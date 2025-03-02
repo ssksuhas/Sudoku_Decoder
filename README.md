@@ -17,8 +17,3 @@ This is a **C++ implementation** of a **Sudoku Solver** using **Backtracking**. 
    - If no number is valid, it **backtracks** and changes the previous number.  
 5. **Solution Found**: The process continues until all empty cells are filled with valid numbers.  
 
-## ▶️ How to Run  
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/sudoku-solver.git
-   cd sudoku-solver
